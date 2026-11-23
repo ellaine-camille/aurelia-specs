@@ -1,15 +1,15 @@
 # Business Logic
 
-> Development of a/an `<Platform>` `<App/Software Type>` using `<Tech Stack>` for `<Userbase>`
+> Development of an `Android-Based` `Multi-Center Barangay Health Services Management Platform` using `Kotlin` for `Local Communities`
 
 - Allowed Platforms: Web, Android
 
 ## Project Details
 
-- Company/Startup/Team Name: `<Team Name>`
-- Project Code Name: `<Code Name>`
-- Project Short Code: `<short-code>`
-- Short Description: `<project-description>`
+- Company/Startup/Team Name: `Oliva`
+- Project Code Name: `Aurelia`
+- Project Short Code: `AU`
+- Short Description: `An Android application that connects local residents with multiple barangay health centers. Residents can find centers, view available services and operating information, join and monitor queues, request appointments, and receive announcements. Authorized barangay health workers can manage their assigned center's information, schedules, queues, appointment requests, and announcements.`
 - Long Description: `<long-description>`
 
 ## User Levels
